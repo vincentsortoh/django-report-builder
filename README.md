@@ -1,2 +1,2 @@
 # report-builder
-django application to create 
+django application to create dynamic reports
